@@ -1,0 +1,152 @@
+**End Course Summative Assignment**
+
+1. What is a vector in mathematics?
+A vector is an object that has both magnitude (length) and direction. It's commonly represented as an arrow.
+
+2. How is a vector different from a scalar?
+A vector has both magnitude and direction, while a scalar has only magnitude (e.g., temperature or length).
+
+3. What are the different operations that can be performed on vectors?
+Vectors can be added, subtracted, and multiplied (dot product and cross product).
+
+4. How can vectors be multiplied by a scalar?
+Multiplying a vector by a scalar changes its magnitude but not its direction. For example, multiplying a vector by 2 doubles its length.
+
+5. What is the magnitude of a vector?
+The magnitude of a vector is its length and is calculated using the Pythagorean theorem for its components.
+
+6. How can the direction of a vector be determined?
+The direction of a vector is given by the angle it makes with a reference axis, often calculated using trigonometric functions.
+
+7. What is the difference between a square matrix and a rectangular matrix?
+A square matrix has the same number of rows and columns. A rectangular matrix has different numbers of rows and columns.
+
+8. What is a basis in linear algebra?
+A basis is a set of vectors that can be combined to form any vector in a given vector space. They are linearly independent and span the space.
+
+9. What is a linear transformation in linear algebra?
+A linear transformation is a function between two vector spaces that preserves vector addition and scalar multiplication.
+
+10. What is an eigenvector in linear algebra?
+An eigenvector of a matrix is a vector that does not change direction under the associated linear transformation. The eigenvalue is the factor by which it is scaled.
+
+11. What is the gradient in machine learning?
+The gradient is a vector of partial derivatives that points in the direction of the steepest increase of a function. It's used in optimization algorithms.
+
+12. What is backpropagation in machine learning?
+Backpropagation is an algorithm for training neural networks. It calculates the gradient of the loss function and updates the weights to minimize the error.
+
+13. What is the concept of a derivative in calculus?
+A derivative represents the rate at which a function changes. It's the slope of the function's graph at a given point.
+
+14. How are partial derivatives used in machine learning?
+Partial derivatives measure how a function changes as each variable changes while keeping others constant. They are used to update model parameters during training.
+
+15. What is probability theory?
+Probability theory is the branch of mathematics that deals with the likelihood of events occurring.
+
+16. What are the primary components of probability theory?
+The primary components are outcomes, events, and probabilities. Outcomes are possible results, events are sets of outcomes, and probabilities measure the likelihood of events.
+
+17. What is conditional probability, and how is it calculated?
+Conditional probability is the probability of an event occurring given that another event has occurred. It's calculated as P(A|B) = P(A and B) / P(B).
+
+18. What is Bayes theorem, and how is it used?
+Bayes theorem relates the conditional and marginal probabilities of random events. It's used to update probabilities based on new information.
+
+19. What is a random variable, and how is it different from a regular variable?
+A random variable is a variable whose values depend on outcomes of a random phenomenon. Regular variables have fixed values.
+
+20. What is the law of large numbers, and how does it relate to probability theory?
+The law of large numbers states that as the number of trials increases, the sample mean approaches the population mean. It shows the stability of long-term results.
+
+21. What is the central limit theorem, and how is it used?
+The central limit theorem states that the distribution of the sample mean approaches a normal distribution as the sample size grows, regardless of the population's distribution.
+
+22. What is the difference between discrete and continuous probability distributions?
+Discrete distributions have countable outcomes (e.g., number of students), while continuous distributions have infinite outcomes within a range (e.g., height).
+
+23. What are some common measures of central tendency, and how are they calculated?
+Common measures are mean (average), median (middle value), and mode (most frequent value).
+
+24. What is the purpose of using percentiles and quartiles in data summarization?
+Percentiles and quartiles divide data into parts, helping to understand the distribution and identify outliers.
+
+25. How do you detect and treat outliers in a dataset?
+Outliers can be detected using statistical methods (e.g., Z-scores) or visualizations (e.g., box plots). Treatment includes removing or transforming them.
+
+26. How do you use the central limit theorem to approximate a discrete probability distribution?
+For large sample sizes, the sample mean of a discrete distribution can be approximated by a normal distribution due to the central limit theorem.
+
+27. How do you test the goodness of fit of a discrete probability distribution?
+Goodness of fit can be tested using the chi-square test, which compares observed and expected frequencies.
+
+28. What is a joint probability distribution?
+A joint probability distribution shows the probability of two or more events occurring together.
+
+29. How do you calculate the joint probability distribution?
+Joint probability is calculated as P(A and B) = P(A) * P(B|A) if events are dependent, or P(A) * P(B) if independent.
+
+30. What is the difference between a joint probability distribution and a marginal probability distribution?
+A joint distribution shows probabilities of combined events, while a marginal distribution shows probabilities of individual events by summing over possible outcomes of other variables.
+
+31. What is the covariance of a joint probability distribution?
+Covariance measures how much two random variables change together. Positive covariance indicates they increase together, and negative means one increases while the other decreases.
+
+32. How do you determine if two random variables are independent based on their joint probability distribution?
+Two random variables are independent if P(A and B) = P(A) * P(B).
+
+33. What is the relationship between the correlation coefficient and the covariance of a joint probability distribution?
+The correlation coefficient is the standardized measure of covariance, showing the strength and direction of the linear relationship between two variables.
+
+34. What is sampling in statistics, and why is it important?
+Sampling is selecting a subset of a population for analysis. It's important because it allows studying large populations without surveying every individual.
+
+35. What are the different sampling methods commonly used in statistical inference?
+Common methods include random sampling, stratified sampling, cluster sampling, and systematic sampling.
+
+36. What is the central limit theorem, and why is it important in statistical inference?
+The central limit theorem states that the distribution of sample means approximates a normal distribution for large samples, making it easier to make inferences about populations.
+
+37. What is the difference between parameter estimation and hypothesis testing?
+Parameter estimation determines the value of a population parameter. Hypothesis testing evaluates evidence against a null hypothesis.
+
+38. What is the p-value in hypothesis testing?
+The p-value measures the probability of observing results at least as extreme as those observed, assuming the null hypothesis is true.
+
+39. What is confidence interval estimation?
+A confidence interval provides a range of values that likely contain the population parameter, given a certain confidence level.
+
+40. What are Type I and Type II errors in hypothesis testing?
+A Type I error occurs when the null hypothesis is rejected when it's true (false positive). A Type II error occurs when the null hypothesis is not rejected when it's false (false negative).
+
+41. What is the difference between correlation and causation?
+Correlation is a relationship between two variables, while causation indicates that one variable directly affects the other.
+
+42. How is a confidence interval defined in statistics?
+A confidence interval is a range of values, derived from a sample, that is likely to contain the population parameter.
+
+43. What does the confidence level represent in a confidence interval?
+The confidence level indicates the probability that the interval contains the population parameter. For example, a 95% confidence level means there is a 95% chance.
+
+44. What is hypothesis testing in statistics?
+Hypothesis testing is a method to determine if there is enough evidence to reject a null hypothesis in favor of an alternative hypothesis.
+
+45. What is the purpose of a null hypothesis in hypothesis testing?
+The null hypothesis represents a default position or statement that there is no effect or difference. It serves as a starting point for testing.
+
+46. What is the difference between a one-tailed and a two-tailed test?
+A one-tailed test looks for an effect in one direction, while a two-tailed test looks for effects in both directions.
+
+47. What is experiment design, and why is it important?
+Experiment design is the process of planning experiments to ensure valid and reliable results. It's important for drawing accurate conclusions.
+
+48. What are the key elements to consider when designing an experiment?
+Key elements include defining the hypothesis, selecting variables, choosing a sample, and determining the method of data collection and analysis.
+
+49. How can sample size determination affect experiment design?
+Sample size affects the experiment's power and precision. A larger sample size generally provides more reliable results but requires more resources.
+
+50. What are some strategies to mitigate potential sources of bias in experiment design?
+Strategies include randomization, blinding, controlling confounding variables, and using appropriate sampling methods.
+
