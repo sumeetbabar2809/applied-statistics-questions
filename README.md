@@ -1,4 +1,4 @@
-# applied-statistics-questions
+# Applied-statistics-questions
 # Interview Questions and Answers
 
 This repository contains solutions to 50 common interview questions, along with detailed explanations for five of these questions. The goal is to help you prepare effectively for technical interviews by providing clear, concise answers and deeper insights into key topics.
